@@ -18,7 +18,7 @@
 
 I am an undergraduate student studying **Computer Engineering at New York University**, interested in exploring the intersection of software, hardware, and intelligent systems.
 
-My interests span a variety of areas within the computer science and engineering field. Particularly, I am drawn to working in cybersecurity and intelligence, though I also like dabbling in other subfields, too. 
+My interests span a variety of areas within the computer science and engineering field. Particularly, I am drawn to working in cybersecurity and intelligence, though I also like dabbling in other subfields. 
 
 ## Areas of Interest
 
