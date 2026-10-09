@@ -18,7 +18,7 @@
 
 I am an undergraduate student studying **Computer Engineering at New York University**, interested in exploring the intersection of software, hardware, and intelligent systems.
 
-My interests span a variety of areas within computer science and engineering, and I enjoy learning through both theoretical study and hands-on projects.
+My interests span a variety of areas within the computer science and engineering field. Particularly, I am drawn to working in cybersecurity and intelligence, though I also like dabbling in other subfields, too. 
 
 ## Areas of Interest
 
@@ -43,6 +43,7 @@ My interests span a variety of areas within computer science and engineering, an
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
 </p>
 
 ---
