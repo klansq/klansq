@@ -29,12 +29,13 @@ My interests span a variety of areas within the computer science and engineering
 
 ## Tech Stack
 
-### Programming Languages
+### Technical Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Verilog-1a348f?style=for-the-badge&logo=verilog&logoColor=#c5c2ff" alt="Verilog">
 </p>
 
 ### Tools and Technologies
