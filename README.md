@@ -22,11 +22,10 @@ My interests span a variety of areas within computer science and engineering, an
 
 ## Areas of Interest
 
-* Cybersecurity
+* Cybersecurity and Intelligence
 * Computer Vision
 * Artificial Intelligence and Robotics
 * Game Development
-* Web Development
 
 ## Tech Stack
 
